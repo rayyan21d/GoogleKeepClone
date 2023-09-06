@@ -1,6 +1,11 @@
-#Google Keep Clone using REACT
+# Google Keep Clone using REACT
 
-This project was based around learning React concepts. Built from scratch to th eground up.
+This project was based around learning React concepts. Built from scratch to the ground up.
+
+## How to run it locally?
+
+Navigate into the project root directory and run `npm install` to install dependencies then run `npm start` to start the development server.
+
 
 ## Available Scripts
 
@@ -12,14 +17,5 @@ It is used to start the React project
 ### `npm test`
 
 ### `npm run build`
-What do you mean by build?
 
 ### `npm run eject`
-
-## Resources
-
-[Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-
-### `npm run build` fails to minify
-??
